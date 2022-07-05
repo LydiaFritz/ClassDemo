@@ -129,6 +129,10 @@
   <ItemGroup>
     <ClInclude Include="Die.h" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Die.cpp" />
+    <ClCompile Include="Source.cpp" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
