@@ -1,7 +1,12 @@
-#ifndef RECTANGLE_H
-#define RECTANGLE_H
+#ifndef DIE_H
+#define DIE_H
 
+class Die {
+private:
 
+public:
+
+};
 
 
 #endif
